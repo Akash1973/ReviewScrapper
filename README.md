@@ -307,5 +307,5 @@ Example error response:
 
 ### Author
 
-**Souvik Ojha**  
-[GitHub](https://github.com/techsouvik) | [LinkedIn](https://linkedin.com/in/souvikojha)
+**Akash Kumar Singh**  
+[GitHub](https://github.com/Akash1973) | [LinkedIn](https://www.linkedin.com/in/akashsingh1211)
